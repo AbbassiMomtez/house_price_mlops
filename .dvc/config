@@ -1,0 +1,4 @@
+[core]
+    remote = dvc_storage
+['remote "dvc_storage"']
+    url = C:\Users\MomtezABBASSI\OneDrive - Timsoft Group\Bureau\PI (Personel)\Semeter 9\MLops\Activite_1_GIT\dvc_storage
